@@ -1,2 +1,2 @@
 # learning
-This learning repository for Lammy
+This is Lammy's learning repository
